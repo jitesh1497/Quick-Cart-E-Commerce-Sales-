@@ -58,17 +58,17 @@ Following inferences can be drawn from the dashboard;
 
 ### [1] Most profitable month
 
-   a)November -10253
-   b)January -9684
-   c)Februrary - 8465
-   d)March - 7793
+     a) November -10253
+     b) January -9684
+     c) Februrary - 8465
+     d) March - 7793
            thus, Most profitable month is November.
            
 ### [2] Least profitable Month
 
-   a)May - -3730
-   b) July - -2138
-   c)December - -1604
+      a) May - -3730
+      b) July - -2138
+      c) December - -1604
                thus, Least profitable month is May.
     
   
@@ -77,7 +77,7 @@ Following inferences can be drawn from the dashboard;
       a) Printers - 8606
       b) Bookcases - 6516
       c) Saree - 4057
-      d)Accessories - 3353
+      d) Accessories - 3353
       e) Tables - 3139
 
      thus, Most profitable Product is Printers.
